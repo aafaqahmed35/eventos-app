@@ -23,7 +23,8 @@ The Idea:
 Event planning is often fragmented across multiple platforms.
 
 This project solves that by:
-	•	Centralizing event services
+
+•	Centralizing event services
 	•	Providing personalized recommendations
 	•	Offering a structured dashboard for users
 
@@ -116,7 +117,7 @@ Future Improvements
 
 ⸻
 
-Author
+Author:
 
 Aafaq Ahmed
 
